@@ -27,7 +27,9 @@ Descargar la imagen **hello-world**
 ![Imagen hello-world](img/imghelloworld.png)
 
 **¿Qué es nginx**
-# COMPLETAR 
+Es un software que actúa principalmente como servidor web, entrega páginas web a los navegadores cuando alguien visita un sitio. Además, puede realizar otras acciones como:
+distribuir el tráfico, servidor de proxy, mejorar el rendimiento de los sitios web.
+##
 
 Descargar la imagen  **nginx** en la versión **alpine**
 ![img nginx](img/imgnginxalpine.png)
@@ -38,7 +40,8 @@ Descargar la imagen  **nginx** en la versión **alpine**
 docker images
 ```
 
-# COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
+# COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO
+![listado](img/listado.png)
 
 **Identificadores**
 
