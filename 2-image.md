@@ -4,7 +4,8 @@ Es un archivo único que contiene todos los programas, librerías, dependencias 
 
 
 ## ¿Cuál es la relación entre una imagen y un contenedor? 
-# COMPLETAR 
+# COMPLETAR
+HOLA
 
 ![Imagen y contenedores](img/imagenContenedores.JPG)
 ## Comandos para imágenes
