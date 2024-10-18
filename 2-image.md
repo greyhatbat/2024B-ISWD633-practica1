@@ -56,7 +56,7 @@ docker inspect <nombre imagen>:<tag>
 ```
 
 Inspeccionar la imagen hello-world 
-# COMPLETAR
+![comandoInspect](img/inspect.png)
 
 **¿Con qué algoritmo se está generando el ID de la imagen**
 # COMPLETAR
