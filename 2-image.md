@@ -59,7 +59,8 @@ Inspeccionar la imagen hello-world
 ![comandoInspect](img/inspect.png)
 
 **¿Con qué algoritmo se está generando el ID de la imagen**
-# COMPLETAR
+En el resultado del comando docker inspect, el identificador de la imagen comienza con "sha256" por lo que da a entender que el ID está generado por el algoritmo hash SHA-256.
+##
 
 ### Filtrar imágenes
 
