@@ -4,7 +4,7 @@ Es un archivo único que contiene todos los programas, librerías, dependencias 
 
 
 ## ¿Cuál es la relación entre una imagen y un contenedor? 
-Una imagen es como una plantilla fija que no cambia, y a partir de esta plantilla, se puede crear múltiples contenedores que se ejecutan de manera independiente.
+### Una imagen es como una plantilla fija que no cambia, y a partir de esta plantilla, se puede crear múltiples contenedores que se ejecutan de manera independiente.
 
 ![Imagen y contenedores](img/imagenContenedores.JPG)
 ## Comandos para imágenes
