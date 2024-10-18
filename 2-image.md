@@ -30,7 +30,7 @@ Descargar la imagen **hello-world**
 # COMPLETAR 
 
 Descargar la imagen  **nginx** en la versión **alpine**
-# COMPLETAR
+![img nginx](img/imgnginxalpine.png)
 
 ### Listar imágenes
 
